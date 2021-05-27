@@ -1,0 +1,105 @@
+{
+  "main": {
+    "name": "Muhammad Hassan Tariq",
+    "occupation": "Undergrad of BSCS from NEDUET",
+    "description": "I eat, sleep and breathe React",
+    "image": "profile-pic.jpeg",
+    "bio": "I am an undergrad student, studying BSCS from NEDUET. Currently learning MERN stack, had a hand-on experience with HTML, CSS, Javascript, Bootstrap, ReactJS. Enjoy problem solving and creating helpful, reliable, user-friendly apps.",
+    "contactmessage": "Get in touch with me",
+    "email": "hassanmuhamamd436@gmail.com@gmail.com",
+    "phone": "(+92)-3032064697",
+    "address": {
+      "city": "Pakistan",
+      "state": "Karachi",
+      "zip": "74600"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100011233680463",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/muhammad-hassan-tariq-2a07611b6/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/MuhammadHassan99",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "NED university Karachi",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "2022",
+        "description": "Undergrad"
+      }
+    ],
+    "work": [
+      {
+        "company": "NawaiTech",
+        "title": "Internee",
+        "years": "May 2021 - Present",
+        "description": "Having an industrial exposure of front-end development."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "30%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Breaking Bad Cast",
+        "category": "",
+        "image": "bd-img.png",
+        "url": "https://musing-goldwasser-b5dc5a.netlify.app"
+      },
+      {
+        "title": "Expense Tracker",
+        "category": "",
+        "image": "et.png",
+        "url": "https://frosty-mccarthy-654bc3.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
