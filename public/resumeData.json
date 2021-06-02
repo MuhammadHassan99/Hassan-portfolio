@@ -2,7 +2,7 @@
   "main": {
     "name": "Muhammad Hassan Tariq",
     "occupation": "Undergrad of BSCS from NEDUET",
-    "description": "I eat, sleep and breathe React",
+    "description": "I love development",
     "image": "profile-pic.jpeg",
     "bio": "I am an undergrad student, studying BSCS from NEDUET. Currently learning MERN stack, had a hand-on experience with HTML, CSS, Javascript, Bootstrap, ReactJS. Enjoy problem solving and creating helpful, reliable, user-friendly apps.",
     "contactmessage": "Get in touch with me",
@@ -57,8 +57,12 @@
         "level": "90%"
       },
       {
+        "name": "Redux",
+        "level": "60%"
+      },
+      {
         "name": "Python",
-        "level": "30%"
+        "level": "40%"
       },
       {
         "name": "Git",
@@ -87,6 +91,18 @@
         "category": "",
         "image": "et.png",
         "url": "https://frosty-mccarthy-654bc3.netlify.app/"
+      },
+      {
+        "title": "Recipe App",
+        "category": "",
+        "image": "recipe-app-thmb.png",
+        "url": "https://sharp-borg-51e5ea.netlify.app/"
+      },
+      {
+        "title": "Todo App",
+        "category": "",
+        "image": "todo-app.png",
+        "url": "https://affectionate-hodgkin-9b55e0.netlify.app/"
       }
     ]
   },
