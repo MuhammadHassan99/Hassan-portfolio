@@ -103,6 +103,12 @@
         "category": "",
         "image": "todo-app.png",
         "url": "https://affectionate-hodgkin-9b55e0.netlify.app/"
+      },
+      {
+        "title": "Covid-19 Tracker App",
+        "category": "",
+        "image": "cta.png",
+        "url": "https://nifty-bardeen-c25461.netlify.app/"
       }
     ]
   },
