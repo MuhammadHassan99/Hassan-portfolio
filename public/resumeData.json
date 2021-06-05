@@ -109,6 +109,12 @@
         "category": "",
         "image": "cta.png",
         "url": "https://nifty-bardeen-c25461.netlify.app/"
+      },
+      {
+        "title": "PWA Weather App",
+        "category": "",
+        "image": "PWA-weather-app",
+        "url": "https://distracted-keller-23897f.netlify.app/"
       }
     ]
   },
